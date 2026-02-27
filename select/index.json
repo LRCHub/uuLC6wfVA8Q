@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Gravity",
+  "base_artist": "FIFTY FIFTY",
+  "createdAt": "2026-02-27T21:49:43.977996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gravity",
+      "artist": "Varios Artistas",
+      "has_synced": true,
+      "path": "select/01_Gravity_Varios_Artistas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gravity",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/02_Gravity_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gravity",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/03_Gravity_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Center of Gravity",
+      "artist": "Yo La Tengo",
+      "has_synced": false,
+      "path": "select/04_Center_of_Gravity_Yo_La_Tengo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gravity",
+      "artist": "Little Dragon",
+      "has_synced": false,
+      "path": "select/05_Gravity_Little_Dragon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gravity Rides Everything",
+      "artist": "Modest Mouse",
+      "has_synced": false,
+      "path": "select/06_Gravity_Rides_Everything_Modest_Mouse.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gravity Rides Everything",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/07_Gravity_Rides_Everything_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Will Gravity Win Tonight?",
+      "artist": "Matthew Dear",
+      "has_synced": false,
+      "path": "select/08_Will_Gravity_Win_Tonight_Matthew_Dear.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gravity",
+      "artist": "The Notwist",
+      "has_synced": true,
+      "path": "select/09_Gravity_The_Notwist.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gravity Never Failed",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": false,
+      "path": "select/10_Gravity_Never_Failed_Orchestral_Manoeuvres_In_the_Dark.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Gravity Car",
+      "artist": "The Olivia Tremor Control",
+      "has_synced": true,
+      "path": "select/11_The_Gravity_Car_The_Olivia_Tremor_Control.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gravity Grave",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/12_Gravity_Grave_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gravity Grave (Extended Version / 2016 Remastered)",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/13_Gravity_Grave_(Extended_Version___2016_Remastered)_The_Verve.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gravity",
+      "artist": "FIFTY FIFTY",
+      "has_synced": false,
+      "path": "select/pl_01_Gravity_FIFTY_FIFTY.txt"
+    }
+  ]
+}
